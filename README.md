@@ -2,8 +2,6 @@
 
 Página acadêmica personalizada para organizar uma semana de estudos de Orientação a Objetos. O projeto demonstra o fluxo completo do BMVC com uma rota Bottle, um controlador Python, um template TPL e arquivos CSS/JavaScript externos.
 
-**Repositório público:** [github.com/FMartins06/foco-oo-bmvc](https://github.com/FMartins06/foco-oo-bmvc)
-
 ## Funcionalidades
 
 - plano de estudos renderizado pelo controlador no template;
@@ -12,6 +10,10 @@ Página acadêmica personalizada para organizar uma semana de estudos de Orienta
 - timer de foco de 25 minutos;
 - tema claro/escuro;
 - layout responsivo e navegação acessível.
+
+## Para que utilizar o site?
+
+O site Foco OO seria utilizado por estudantes que desejam organizar e acompanhar seus estudos de Orientação a Objetos. Ele reúne tarefas sobre os principais conteúdos da disciplina, permite marcar atividades concluídas, filtrar tarefas pendentes, acompanhar o progresso semanal e utilizar um cronômetro de 25 minutos para manter a concentração. Além disso, o tema claro ou escuro e o armazenamento do progresso no navegador tornam a experiência mais prática, personalizada e adequada a diferentes rotinas de estudo.
 
 ## Fluxo BMVC
 
